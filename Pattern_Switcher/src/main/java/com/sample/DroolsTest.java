@@ -28,7 +28,7 @@ public class DroolsTest {
             Message message = new Message();
             //regel met melding wordt uitgelezen van extern bestand
             //regel wordt eventueel onderverdeeld in losse kernwoorden
-            message.setMessage("Help, dit is een ongeluk in de ketelstraat 43.");
+            message.setMessage("Help, dit is een ongeluk in de ketelstraat 42.");
             ksession.insert(message);
             ksession.fireAllRules();
            //======================//
