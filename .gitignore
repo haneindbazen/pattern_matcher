@@ -31,14 +31,11 @@
 .DS_Store
 .DS_Store?
 ._*
-<<<<<<< HEAD
 
 # Eclipse ignore stuff #
 ########################
 bin
 .metadata
-=======
->>>>>>> 42edb263001bac69a4f47ed1741aad9c4a34a208
 .Spotlight-V100
 .Trashes
 ehthumbs.db
