@@ -1,7 +1,7 @@
-pattern_switcher
+pattern_matcher
 ================
 
-Pattern Switcher met behulp van Drools engine
+Pattern Matcher met behulp van Drools engine
 
-<versie Drools engine>
-<versie Java SE Runtime Environment>
+Drools engine 5.5.0
+Java SE Runtime Environment 7 (JRE7)
